@@ -1,3 +1,4 @@
+"""
 #A hotel chain's loyal customers
 
 You are an analyst for a major US hotel chain which has locations all over the US. 
